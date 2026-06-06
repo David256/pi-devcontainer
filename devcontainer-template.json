@@ -1,0 +1,9 @@
+{
+    "id": "pi-devcontainer",
+    "version": "1.0.0",
+    "name": "Pi DevContainer",
+    "description": "pi.dev devcontainer",
+    "documentationURL": "https://github.com/David256/pi-devcontainer",
+    "licenseURL": "https://github.com/David256/pi-devcontainer/blob/main/LICENSE",
+    "publisher": "David256"
+}
