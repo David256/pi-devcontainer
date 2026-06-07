@@ -1,5 +1,5 @@
 {
-    "id": "pi-devcontainer",
+    "id": "pi",
     "version": "1.0.0",
     "name": "Pi DevContainer",
     "description": "pi.dev devcontainer",
